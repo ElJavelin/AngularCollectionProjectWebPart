@@ -1,0 +1,12 @@
+.mainDiv {
+  width: 100%;
+  height: 100%;
+}
+#introText {
+  background-color: blue;
+}
+#randomsItems {
+  background-color: red;
+  width: 100%;
+  height: 100%;
+}
